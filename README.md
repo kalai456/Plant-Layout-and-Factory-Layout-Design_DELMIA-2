@@ -511,9 +511,7 @@ The simulation provides a better understanding of material flow, machine arrange
 
 <img width="1600" height="752" alt="657765090-7b212c9d-9948-40fd-9f34-c7b27ee36889" src="https://github.com/user-attachments/assets/38a650e3-30f0-479a-8c82-89d685c588b3" />
 
-
-
-11. Conclusion
+Conclusion
 
 The proposed Process Planning and Plant Layout for Soap Manufacturing provides a systematic production flow from raw-material receiving to final product dispatch.
 
