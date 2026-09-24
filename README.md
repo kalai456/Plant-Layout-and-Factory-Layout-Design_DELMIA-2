@@ -265,7 +265,8 @@ FINISHED GOODS STORAGE
 ↓
 DISPATCH TRUCK
 
-<img width="1600" height="901" alt="WhatsApp Image 2026-09-24 at 12 32 11 AM (1)" src="https://github.com/user-attachments/assets/7b212c9d-9948-40fd-9f34-c7b27ee36889" />
+<img width="1600" height="752" alt="657765090-7b212c9d-9948-40fd-9f34-c7b27ee36889" src="https://github.com/user-attachments/assets/38a650e3-30f0-479a-8c82-89d685c588b3" />
+
 
 
 11. Conclusion
